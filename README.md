@@ -1,7 +1,8 @@
 # baranglokalkatalog
   Hasil UAS Aplikasi Piranti Bergerak // Jangan lupa sebelum di run lakukan **Flutter Pub Get** di terminal dan Run melalui Terminal dengan **Flutter run** untuk mencegah tampilan error ketika input 
 
-# Home Page
+# Home Page 
+  untuk mengklik Add Barang (+) terhalang dan berada dibelakang tampilan debug 
 ![Screenshot 2025-01-09 022949](https://github.com/user-attachments/assets/850cbb4f-0b87-4b42-aace-b7241aade05e)
 
 # Tampilan Ketika sudah diisi dengan fitur Scroll
