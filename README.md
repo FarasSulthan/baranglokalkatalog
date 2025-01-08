@@ -1,16 +1,17 @@
 # baranglokalkatalog
+  Hasil UAS Aplikasi Piranti Bergerak
 
-A new Flutter project.
+  Home Page
+![Screenshot 2025-01-09 022949](https://github.com/user-attachments/assets/850cbb4f-0b87-4b42-aace-b7241aade05e)
 
-## Getting Started
+  Tampilan Ketika sudah diisi dengan fitur Scroll
+![Screenshot 2025-01-09 024138](https://github.com/user-attachments/assets/704590c6-0a18-4e2d-8b38-bbffb1ff3aa4)
 
-This project is a starting point for a Flutter application.
+  Add Page 
+![Screenshot 2025-01-09 023459](https://github.com/user-attachments/assets/932464c4-32df-4875-bec3-dc6c84fe64c1)
 
-A few resources to get you started if this is your first Flutter project:
+  Edit Page 
+![Screenshot 2025-01-09 023704](https://github.com/user-attachments/assets/67e8957b-17e8-4db6-9035-4ab288c0b4b4)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
